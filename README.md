@@ -1,0 +1,2 @@
+# fin
+A finance project
